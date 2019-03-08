@@ -1,0 +1,13 @@
+{
+  "name": "xuexiqiangguo",
+  "private": true,
+  "main": "main.js",
+  "version": "0.2.3",
+  "devDependencies": {
+    "electron": "^4.0.7"
+  },
+  "scripts" : {
+    "start" : "electron .",
+    "package" : "electron-packager . 学习强国 --platform=win32 --arch=x64 --icon=icon.ico --out=./out --asar --app-version=0.0.1"
+  }
+}
