@@ -2,6 +2,8 @@
 
 https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo
 
+https://github.com/fuck-xuexiqiangguo/source-code
+
 ### 需安装 npm 和 electron
 
 ### 删除了Fword，更和谐
